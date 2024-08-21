@@ -34,7 +34,6 @@ $$
 a_n &= \frac{2}{L} \int_0^L u(x,0) \sin\left(\frac{n\pi}{L}x\right) dx \\
 b_n &= \frac{2}{L} \int_0^L u'(x,0) \sin\left(\frac{n\pi}{L}x\right) dx
 \end{align}
-
 $$
 
 In a real piano, the string interacts with the hammer, the damper, and the bridge, etc.. Thus, during the simulation, we would want to apply external forces to the string.
