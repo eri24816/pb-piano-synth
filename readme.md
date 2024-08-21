@@ -53,8 +53,6 @@ $$
 By transforming (4) into the frequency domain using (3), we have:
 
 $$
-
-
 \begin{align}
 b_n(t_0^+) &= b_n(t_0^-) + 2\frac{J}{L\rho} \sin\left(\frac{n\pi}{L}x_0\right),& \text{when }t_0 = 0
 \end{align}
@@ -64,10 +62,8 @@ The above equation is a special case at $t_0 = 0$ because (3) is only valid for 
 
 $$
 \begin{align}
-
 a_n(t_0^+) &= a_n(t_0^-) + 2\frac{J}{L\rho} \sin\left(\frac{n\pi}{L}x_0\right) \cos(2\pi f_n t_0) \\
 b_n(t_0^+) &= b_n(t_0^-) + 2\frac{J}{L\rho} \sin\left(\frac{n\pi}{L}x_0\right) \sin(2\pi f_n t_0)
-
 \end{align}
 $$
 
