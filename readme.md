@@ -6,11 +6,9 @@ According to [The wave equation for stiff strings and
 piano tuning](https://upcommons.upc.edu/bitstream/handle/2117/101752/GraciaSanz.piano.RSCM.2017.pdf), the wave equation for a stiff string is:
 
 $$
-\begin{equation}
-\begin{align*}
+\begin{align}
 \frac{\partial^2 u}{\partial t^2} &= c^2 \frac{\partial^2 u}{\partial x^2} - \frac{ESK^2}{\rho} \frac{\partial^4 u}{\partial x^4}
-\end{align*}
-\end{equation}
+\end{align}
 $$
 
 where $c$ is the wave speed, $E$ is the Young's modulus, $S$ is the cross-sectional area, $K$ is the radius of gyration, and $\rho$ is the density.
